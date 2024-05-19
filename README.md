@@ -24,7 +24,7 @@ This repository contains a Node.js project for building microservices for e-comm
 ## Prerequisites
 
 - Node.js and npm installed on your machine.
-- Docker and Docker Compose installed to run the application locally.
+- Docker and Docker Compose  installed to run the application locally.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ This repository contains a Node.js project for building microservices for e-comm
 
 ## Usage
 
-- Each microservice has its own set of endpoints for performing CRUD operations and other functionalities.
+- Each microservice has its own endpoints for performing CRUD operations and other functionalities.
 - Use the API gateway endpoint to access the microservices from the client application.
 - Monitor the health and performance of the services using Consul services and other monitoring tools.
 
